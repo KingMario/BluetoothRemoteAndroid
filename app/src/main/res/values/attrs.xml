@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KeyboardButtonView">
+
+        <!-- text content for the 4 corners and the center -->
+        <attr name="text_upper_left" format="string"/>
+        <attr name="text_upper_right" format="string"/>
+        <attr name="text_bottom_left" format="string"/>
+        <attr name="text_bottom_right" format="string"/>
+        <attr name="text_center" format="string"/>
+
+        <!-- images for the 4 corners and the center -->
+        <attr name="image_upper_left" format="integer"/>
+        <attr name="image_upper_right" format="integer"/>
+        <attr name="image_bottom_left" format="integer"/>
+        <attr name="image_bottom_right" format="integer"/>
+        <attr name="image_center" format="integer"/>
+
+    </declare-styleable>
+</resources>

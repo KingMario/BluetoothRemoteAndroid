@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlueRaspberryControl</string>
+    <string name="pause_stream_text">Pause</string>
+    <string name="play_stream_text">Play</string>
+    <string name="stop_stream_text">Stop</string>
+    <string name="type_text">Type</string>
+    <string name="keyboard_enter">Enter Text</string>
+    <string name="send_text">Send</string>
+    <string name="cancel_text">Cancel</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_type_text"
+        android:icon="@drawable/ic_keyboard_black_24dp"
+        android:title="@string/type_text"
+        app:showAsAction="always"/>
+    <item android:id="@+id/menu_pause_stream"
+        android:icon="@drawable/ic_pause_black_24dp"
+        android:title="@string/pause_stream_text"
+        app:showAsAction="always"/>
+    <item android:id="@+id/menu_play_stream"
+        android:icon="@drawable/ic_play_arrow_black_24dp"
+        android:title="@string/play_stream_text"
+        app:showAsAction="always"/>
+    <item android:id="@+id/menu_stop_stream"
+        android:icon="@drawable/ic_stop_black_24dp"
+        android:title="@string/stop_stream_text"
+        app:showAsAction="always"/>
+</menu>
